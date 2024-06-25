@@ -23,7 +23,7 @@ FROM
 JOIN
     client c ON i.client_id = c.id;
 
-CAPTURA ![cap1](capturas/cap2.png)
+CAPTURA ![cap1](capturas/cap1.png)
 
 
 3- VIEW
@@ -40,4 +40,4 @@ FROM
 JOIN
     product p ON d.product_id = p.id;
 
-    CAPTURA ![cap2](capturas/cap1.png)
+    CAPTURA ![cap2](capturas/cap2.png)
