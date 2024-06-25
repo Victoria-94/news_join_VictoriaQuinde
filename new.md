@@ -41,3 +41,4 @@ JOIN
     product p ON d.product_id = p.id;
 
     CAPTURA ![cap2](capturas/cap2.png)
+   
